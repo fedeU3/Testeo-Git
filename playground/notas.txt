@@ -1,0 +1,11 @@
+Notas personales de practica
+
+Usa este archivo para anotar comandos que aprendiste, cosas que te confundieron,
+o simplemente para tener otro archivo con el que experimentar.
+
+---
+
+Ejemplos de notas utiles:
+- "git switch -c rama" crea la rama Y te mueve a ella en un paso
+- "git log --oneline --graph --all" es el comando mas util para ver el estado del repo
+- Con "git reflog" podes recuperar casi cualquier cosa que hayas borrado

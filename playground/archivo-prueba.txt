@@ -1,0 +1,12 @@
+Este archivo existe para practicar Git libremente.
+
+Podes modificar este contenido, agregar lineas, borrar todo, o reemplazarlo con lo que quieras.
+Es el lugar ideal para probar commits, ramas, conflictos y resets.
+
+---
+
+Algunas ideas para practicar:
+- Modifica este archivo y hace un commit
+- Crea una rama, cambia este archivo, y despues mergea con main
+- Genera un conflicto modificando la misma linea desde dos ramas distintas
+- Usa git stash para guardar cambios temporalmente y despues recuperarlos
